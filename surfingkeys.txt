@@ -7,9 +7,10 @@ mapkey('<Ctrl-y>', 'Show me the money', function() {
 map('gt', 'T');
 map('h', 'E');
 map('l', 'R');
+map(',k', 'gg');
 
 // an example to remove mapkey `Ctrl-i`
-unmap('<Ctrl-i>');
+//unmap('<Ctrl-i>');
 
 // set theme
 settings.theme = `
