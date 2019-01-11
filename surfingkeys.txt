@@ -9,6 +9,8 @@ map('h', 'E');
 map('l', 'R');
 map(',k', 'gg');
 
+addSearchAliasX('s', 'stackoverflow', 'http://stackoverflow.com/search?q=', 'o');
+
 // an example to remove mapkey `Ctrl-i`
 //unmap('<Ctrl-i>');
 
